@@ -1,0 +1,146 @@
+{
+  "A": [
+    {
+      "team": "Lazio",
+      "points": 6
+    },
+    {
+      "team": "Ajax",
+      "points": 6
+    },
+    {
+      "team": "Juventus",
+      "points": 6
+    },
+    {
+      "team": "Porto",
+      "points": 0
+    }
+  ],
+  "B": [
+    {
+      "team": "Club Brugge",
+      "points": 6
+    },
+    {
+      "team": "Rangers",
+      "points": 6
+    },
+    {
+      "team": "Liverpool",
+      "points": 6
+    },
+    {
+      "team": "Napoli",
+      "points": 0
+    }
+  ],
+  "C": [
+    {
+      "team": "Olympiacos",
+      "points": 9
+    },
+    {
+      "team": "PSV Eindhoven",
+      "points": 4
+    },
+    {
+      "team": "Sporting CP",
+      "points": 3
+    },
+    {
+      "team": "AC Milan",
+      "points": 1
+    }
+  ],
+  "D": [
+    {
+      "team": "Roma",
+      "points": 7
+    },
+    {
+      "team": "Shakhtar Donetsk",
+      "points": 6
+    },
+    {
+      "team": "Benfica",
+      "points": 4
+    },
+    {
+      "team": "Borussia Dortmund",
+      "points": 0
+    }
+  ],
+  "E": [
+    {
+      "team": "Fenerbahce",
+      "points": 5
+    },
+    {
+      "team": "Inter Milan",
+      "points": 5
+    },
+    {
+      "team": "Arsenal",
+      "points": 4
+    },
+    {
+      "team": "Bayern Munich",
+      "points": 1
+    }
+  ],
+  "F": [
+    {
+      "team": "Manchester United",
+      "points": 9
+    },
+    {
+      "team": "Sevilla",
+      "points": 3
+    },
+    {
+      "team": "Manchester City",
+      "points": 3
+    },
+    {
+      "team": "RB Leipzig",
+      "points": 3
+    }
+  ],
+  "G": [
+    {
+      "team": "Atletico Madrid",
+      "points": 6
+    },
+    {
+      "team": "Real Madrid",
+      "points": 6
+    },
+    {
+      "team": "Paris Saint-Germain",
+      "points": 4
+    },
+    {
+      "team": "Red Bull Salzburg",
+      "points": 1
+    }
+  ],
+  "H": [
+    {
+      "team": "Celtic",
+      "points": 9
+    },
+    {
+      "team": "Chelsea",
+      "points": 4
+    },
+    {
+      "team": "Barcelona",
+      "points": 2
+    },
+    {
+      "team": "Galatasaray",
+      "points": 1
+    }
+  ]
+}

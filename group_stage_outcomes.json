@@ -1,0 +1,38 @@
+{
+  "qualified_from_groups": [
+    "Lazio",
+    "Ajax",
+    "Club Brugge",
+    "Rangers",
+    "Olympiacos",
+    "PSV Eindhoven",
+    "Roma",
+    "Shakhtar Donetsk",
+    "Fenerbahce",
+    "Inter Milan",
+    "Manchester United",
+    "Sevilla",
+    "Atletico Madrid",
+    "Real Madrid",
+    "Celtic",
+    "Chelsea"
+  ],
+  "eliminated_from_groups": [
+    "Juventus",
+    "Porto",
+    "Liverpool",
+    "Napoli",
+    "Sporting CP",
+    "AC Milan",
+    "Benfica",
+    "Borussia Dortmund",
+    "Arsenal",
+    "Bayern Munich",
+    "Manchester City",
+    "RB Leipzig",
+    "Paris Saint-Germain",
+    "Red Bull Salzburg",
+    "Barcelona",
+    "Galatasaray"
+  ]
+}

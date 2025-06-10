@@ -1,0 +1,138 @@
+{
+  "teams": {
+    "Napoli": {
+      "scored": 11,
+      "conceded": 7
+    },
+    "Olympiacos": {
+      "scored": 5,
+      "conceded": 6
+    },
+    "Roma": {
+      "scored": 7,
+      "conceded": 8
+    },
+    "Fenerbahce": {
+      "scored": 6,
+      "conceded": 8
+    },
+    "Celtic": {
+      "scored": 10,
+      "conceded": 7
+    },
+    "Sporting CP": {
+      "scored": 11,
+      "conceded": 10
+    },
+    "Bayern Munich": {
+      "scored": 9,
+      "conceded": 9
+    },
+    "Red Bull Salzburg": {
+      "scored": 7,
+      "conceded": 11
+    },
+    "Shakhtar Donetsk": {
+      "scored": 12,
+      "conceded": 5
+    },
+    "RB Leipzig": {
+      "scored": 9,
+      "conceded": 6
+    },
+    "Borussia Dortmund": {
+      "scored": 6,
+      "conceded": 8
+    },
+    "Liverpool": {
+      "scored": 3,
+      "conceded": 11
+    },
+    "Sevilla": {
+      "scored": 9,
+      "conceded": 5
+    },
+    "Paris Saint-Germain": {
+      "scored": 7,
+      "conceded": 6
+    },
+    "Ajax": {
+      "scored": 7,
+      "conceded": 6
+    },
+    "Barcelona": {
+      "scored": 5,
+      "conceded": 11
+    },
+    "Benfica": {
+      "scored": 8,
+      "conceded": 5
+    },
+    "Manchester United": {
+      "scored": 8,
+      "conceded": 8
+    },
+    "Atletico Madrid": {
+      "scored": 8,
+      "conceded": 9
+    },
+    "Arsenal": {
+      "scored": 8,
+      "conceded": 10
+    },
+    "Lazio": {
+      "scored": 12,
+      "conceded": 5
+    },
+    "Galatasaray": {
+      "scored": 7,
+      "conceded": 6
+    },
+    "Club Brugge": {
+      "scored": 7,
+      "conceded": 10
+    },
+    "Porto": {
+      "scored": 5,
+      "conceded": 10
+    },
+    "PSV Eindhoven": {
+      "scored": 8,
+      "conceded": 3
+    },
+    "Chelsea": {
+      "scored": 2,
+      "conceded": 4
+    },
+    "AC Milan": {
+      "scored": 5,
+      "conceded": 6
+    },
+    "Manchester City": {
+      "scored": 3,
+      "conceded": 5
+    },
+    "Inter Milan": {
+      "scored": 6,
+      "conceded": 4
+    },
+    "Juventus": {
+      "scored": 8,
+      "conceded": 7
+    },
+    "Rangers": {
+      "scored": 8,
+      "conceded": 8
+    },
+    "Real Madrid": {
+      "scored": 5,
+      "conceded": 8
+    }
+  },
+  "summary": {
+    "champion": "Inter Milan",
+    "best_team": "Shakhtar Donetsk",
+    "top_scorer": null,
+    "top_player": null
+  }
+}

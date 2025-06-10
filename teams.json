@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Real Madrid",
+    "strength": 59
+  },
+  {
+    "name": "Manchester City",
+    "strength": 56
+  },
+  {
+    "name": "Bayern Munich",
+    "strength": 90
+  },
+  {
+    "name": "Barcelona",
+    "strength": 66
+  },
+  {
+    "name": "Liverpool",
+    "strength": 63
+  },
+  {
+    "name": "Chelsea",
+    "strength": 87
+  },
+  {
+    "name": "Juventus",
+    "strength": 95
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "strength": 94
+  },
+  {
+    "name": "Manchester United",
+    "strength": 94
+  },
+  {
+    "name": "Arsenal",
+    "strength": 68
+  },
+  {
+    "name": "AC Milan",
+    "strength": 98
+  },
+  {
+    "name": "Inter Milan",
+    "strength": 87
+  },
+  {
+    "name": "Atletico Madrid",
+    "strength": 61
+  },
+  {
+    "name": "Borussia Dortmund",
+    "strength": 67
+  },
+  {
+    "name": "RB Leipzig",
+    "strength": 79
+  },
+  {
+    "name": "Napoli",
+    "strength": 60
+  },
+  {
+    "name": "Ajax",
+    "strength": 82
+  },
+  {
+    "name": "Porto",
+    "strength": 57
+  },
+  {
+    "name": "Benfica",
+    "strength": 98
+  },
+  {
+    "name": "Sevilla",
+    "strength": 87
+  },
+  {
+    "name": "Roma",
+    "strength": 91
+  },
+  {
+    "name": "Lazio",
+    "strength": 93
+  },
+  {
+    "name": "Sporting CP",
+    "strength": 81
+  },
+  {
+    "name": "Galatasaray",
+    "strength": 71
+  },
+  {
+    "name": "Celtic",
+    "strength": 98
+  },
+  {
+    "name": "Rangers",
+    "strength": 80
+  },
+  {
+    "name": "Shakhtar Donetsk",
+    "strength": 74
+  },
+  {
+    "name": "Club Brugge",
+    "strength": 84
+  },
+  {
+    "name": "Red Bull Salzburg",
+    "strength": 65
+  },
+  {
+    "name": "Olympiacos",
+    "strength": 99
+  },
+  {
+    "name": "Fenerbahce",
+    "strength": 97
+  },
+  {
+    "name": "PSV Eindhoven",
+    "strength": 58
+  }
+]

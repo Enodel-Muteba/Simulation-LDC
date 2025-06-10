@@ -1,0 +1,310 @@
+[
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Roma vs Atletico Madrid",
+    "score": "2-2 \u2192 2-4 (ap)",
+    "winner": "Atletico Madrid",
+    "loser": "Roma"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Sporting CP vs Red Bull Salzburg",
+    "score": "3-3 \u2192 3-3 (tab)",
+    "winner": "Red Bull Salzburg",
+    "loser": "Sporting CP"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Ajax vs Borussia Dortmund",
+    "score": "4-4 \u2192 3-2 (ap)",
+    "winner": "Ajax",
+    "loser": "Borussia Dortmund"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Olympiacos vs Shakhtar Donetsk",
+    "score": "4-4 \u2192 3-1 (ap)",
+    "winner": "Olympiacos",
+    "loser": "Shakhtar Donetsk"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Club Brugge vs Sevilla",
+    "score": "3-4",
+    "winner": "Sevilla",
+    "loser": "Club Brugge"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Lazio vs Inter Milan",
+    "score": "4-1",
+    "winner": "Lazio",
+    "loser": "Inter Milan"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Liverpool vs Chelsea",
+    "score": "4-3",
+    "winner": "Liverpool",
+    "loser": "Chelsea"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Rangers vs Bayern Munich",
+    "score": "5-2",
+    "winner": "Rangers",
+    "loser": "Bayern Munich"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Atletico Madrid vs Red Bull Salzburg",
+    "score": "3-2",
+    "winner": "Atletico Madrid",
+    "loser": "Red Bull Salzburg"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Ajax vs Olympiacos",
+    "score": "4-2",
+    "winner": "Ajax",
+    "loser": "Olympiacos"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Sevilla vs Lazio",
+    "score": "3-8",
+    "winner": "Lazio",
+    "loser": "Sevilla"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Liverpool vs Rangers",
+    "score": "5-3",
+    "winner": "Liverpool",
+    "loser": "Rangers"
+  },
+  {
+    "stage": "Demi-finales",
+    "match": "Atletico Madrid vs Ajax",
+    "score": "3-1",
+    "winner": "Atletico Madrid",
+    "loser": "Ajax"
+  },
+  {
+    "stage": "Demi-finales",
+    "match": "Lazio vs Liverpool",
+    "score": "2-3",
+    "winner": "Liverpool",
+    "loser": "Lazio"
+  },
+  {
+    "stage": "Finale",
+    "match": "Atletico Madrid vs Liverpool",
+    "score": "4-5",
+    "winner": "Liverpool",
+    "loser": "Atletico Madrid"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Olympiacos vs Inter Milan",
+    "score": "1-3",
+    "winner": "Inter Milan",
+    "loser": "Olympiacos"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "RB Leipzig vs Sevilla",
+    "score": "4-5",
+    "winner": "Sevilla",
+    "loser": "RB Leipzig"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Manchester United vs Lazio",
+    "score": "0-4",
+    "winner": "Lazio",
+    "loser": "Manchester United"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Chelsea vs Shakhtar Donetsk",
+    "score": "4-3",
+    "winner": "Chelsea",
+    "loser": "Shakhtar Donetsk"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Paris Saint-Germain vs Sporting CP",
+    "score": "2-2 \u2192 0-2 (ap)",
+    "winner": "Sporting CP",
+    "loser": "Paris Saint-Germain"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Galatasaray vs Juventus",
+    "score": "2-3",
+    "winner": "Juventus",
+    "loser": "Galatasaray"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Celtic vs PSV Eindhoven",
+    "score": "3-3 \u2192 3-3 (tab)",
+    "winner": "PSV Eindhoven",
+    "loser": "Celtic"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Napoli vs Benfica",
+    "score": "2-2 \u2192 3-4 (ap)",
+    "winner": "Benfica",
+    "loser": "Napoli"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Inter Milan vs Sevilla",
+    "score": "3-3 \u2192 4-3 (ap)",
+    "winner": "Inter Milan",
+    "loser": "Sevilla"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Lazio vs Chelsea",
+    "score": "1-2",
+    "winner": "Chelsea",
+    "loser": "Lazio"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Sporting CP vs Juventus",
+    "score": "1-3",
+    "winner": "Juventus",
+    "loser": "Sporting CP"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "PSV Eindhoven vs Benfica",
+    "score": "3-4",
+    "winner": "Benfica",
+    "loser": "PSV Eindhoven"
+  },
+  {
+    "stage": "Demi-finales",
+    "match": "Inter Milan vs Chelsea",
+    "score": "2-1",
+    "winner": "Inter Milan",
+    "loser": "Chelsea"
+  },
+  {
+    "stage": "Demi-finales",
+    "match": "Juventus vs Benfica",
+    "score": "2-5",
+    "winner": "Benfica",
+    "loser": "Juventus"
+  },
+  {
+    "stage": "Finale",
+    "match": "Inter Milan vs Benfica",
+    "score": "3-2",
+    "winner": "Inter Milan",
+    "loser": "Benfica"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "PSV Eindhoven vs Club Brugge",
+    "score": "3-4",
+    "winner": "Club Brugge",
+    "loser": "PSV Eindhoven"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Real Madrid vs Rangers",
+    "score": "3-4",
+    "winner": "Rangers",
+    "loser": "Real Madrid"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Lazio vs Manchester United",
+    "score": "5-5 \u2192 3-4 (ap)",
+    "winner": "Manchester United",
+    "loser": "Lazio"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Roma vs Atletico Madrid",
+    "score": "3-1",
+    "winner": "Roma",
+    "loser": "Atletico Madrid"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Ajax vs Olympiacos",
+    "score": "3-4",
+    "winner": "Olympiacos",
+    "loser": "Ajax"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Fenerbahce vs Inter Milan",
+    "score": "3-3 \u2192 3-3 (tab)",
+    "winner": "Inter Milan",
+    "loser": "Fenerbahce"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Sevilla vs Celtic",
+    "score": "3-3 \u2192 2-5 (ap)",
+    "winner": "Celtic",
+    "loser": "Sevilla"
+  },
+  {
+    "stage": "Huiti\u00e8mes de finale",
+    "match": "Shakhtar Donetsk vs Chelsea",
+    "score": "3-3 \u2192 2-3 (ap)",
+    "winner": "Chelsea",
+    "loser": "Shakhtar Donetsk"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Club Brugge vs Rangers",
+    "score": "4-2",
+    "winner": "Club Brugge",
+    "loser": "Rangers"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Manchester United vs Roma",
+    "score": "6-3",
+    "winner": "Manchester United",
+    "loser": "Roma"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Olympiacos vs Inter Milan",
+    "score": "7-1",
+    "winner": "Olympiacos",
+    "loser": "Inter Milan"
+  },
+  {
+    "stage": "Quarts de finale",
+    "match": "Celtic vs Chelsea",
+    "score": "3-4",
+    "winner": "Chelsea",
+    "loser": "Celtic"
+  },
+  {
+    "stage": "Demi-finales",
+    "match": "Club Brugge vs Manchester United",
+    "score": "3-3 \u2192 3-3 (tab)",
+    "winner": "Manchester United",
+    "loser": "Club Brugge"
+  },
+  {
+    "stage": "Demi-finales",
+    "match": "Olympiacos vs Chelsea",
+    "score": "2-3",
+    "winner": "Chelsea",
+    "loser": "Olympiacos"
+  }
+]
